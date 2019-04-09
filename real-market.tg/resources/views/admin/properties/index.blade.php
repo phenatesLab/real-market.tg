@@ -1,0 +1,1 @@
+@extends("layouts.admin", ["title" => "Liste des biens"])
